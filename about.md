@@ -24,7 +24,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <ul class="skill-list">
 	<li>Ruby on Rails</li>
 	<li>Ruby</li>
-	<li>Software architecture (microservices, monolith)</li>
+	<li>Software architecture</li>
 	<li>Javascript - Coffeescript</li>
 	<li>HTML - Jade - Slim - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
